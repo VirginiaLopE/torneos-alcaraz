@@ -1,0 +1,192 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.9785, -37.8226]
+      },
+      "properties": {
+        "torneo": "Australian Open",
+        "ubicacion": "Melbourne Park, Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.4833, 51.8833]
+      },
+      "properties": {
+        "torneo": "ATP 500 Róterdam",
+        "ubicacion": "Rotterdam Ahoy, Róterdam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.5127, 25.3117]
+      },
+      "properties": {
+        "torneo": "ATP 500 Doha",
+        "ubicacion": "Khalifa International Tennis Complex, Doha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.3050, 33.7244]
+      },
+      "properties": {
+        "torneo": "Masters 1.000 Indian Wells",
+        "ubicacion": "Indian Wells Tennis Garden, California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.2389, 25.9581]
+      },
+      "properties": {
+        "torneo": "Masters 1.000 Miami",
+        "ubicacion": "Hard Rock Stadium, Miami"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4397, 43.7486]
+      },
+      "properties": {
+        "torneo": "Masters 1.000 Montecarlo",
+        "ubicacion": "Monte-Carlo Country Club, Roquebrune-Cap-Martin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.1150, 41.3931]
+      },
+      "properties": {
+        "torneo": "ATP 500 Barcelona",
+        "ubicacion": "Real Club de Tenis Barcelona, Barcelona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.4542, 41.9289]
+      },
+      "properties": {
+        "torneo": "Masters 1.000 Roma",
+        "ubicacion": "Foro Itálico, Roma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2492, 48.8475]
+      },
+      "properties": {
+        "torneo": "Roland Garros",
+        "ubicacion": "Stade Roland Garros, París"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.2117, 51.4883]
+      },
+      "properties": {
+        "torneo": "ATP 500 Queen's Club",
+        "ubicacion": "Queen's Club, Londres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.2144, 51.4344]
+      },
+      "properties": {
+        "torneo": "Wimbledon",
+        "ubicacion": "All England Lawn Tennis Club, Londres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.2725, 39.3522]
+      },
+      "properties": {
+        "torneo": "Masters 1.000 Cincinnati",
+        "ubicacion": "Lindner Family Tennis Center, Mason"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8467, 40.7500]
+      },
+      "properties": {
+        "torneo": "US Open",
+        "ubicacion": "USTA Billie Jean King National Tennis Center, Nueva York"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.7892, 35.6369]
+      },
+      "properties": {
+        "torneo": "ATP 500 Tokio",
+        "ubicacion": "Ariake Coliseum, Tokio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3783, 48.8386]
+      },
+      "properties": {
+        "torneo": "Masters 1.000 París",
+        "ubicacion": "Accor Arena / La Défense Arena, París"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.6511, 45.0419]
+      },
+      "properties": {
+        "torneo": "ATP Finals",
+        "ubicacion": "Inalpi Arena, Turín"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.2461, 44.4822]
+      },
+      "properties": {
+        "torneo": "Davis Cup Finals",
+        "ubicacion": "Unipol Arena, Bolonia"
+      }
+    }
+  ]
+}
